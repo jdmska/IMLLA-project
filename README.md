@@ -1,6 +1,9 @@
 # IMLLA-project
 
+The aim of the project was to compare models' performance on emotive texts written in American and British English.
+
 The aim of the project was to compare models' performance on emotive texts written in American and British English. 
+
 
 The files include scraped posts from Facebook pages of Humans of New York and Humans of London in .csv and .json files, the code, and parameters of the three models.
 
